@@ -1,0 +1,2 @@
+# personal-statement
+THIS IS A BRIEF DESCRIPTION OF MYSELF
