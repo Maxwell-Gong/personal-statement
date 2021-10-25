@@ -1,6 +1,6 @@
 # personal-statement
 THIS IS A BRIEF DESCRIPTION OF MYSELF
-print()
+
 I am a student who has my primary school education and high school education in China. Now I am a student who is doing the subject for maths, physics, chemistry and computer science in JinLing High school, which is one of the most famous and excellent educational places in Nanjing. Nowdays I set myself in learning science due to my enormous enthusiasm and my talents in doing those scientific subjects. Furthermore, I would like to choose the maths as my major because it really impacts me to be a person who loves to think logically and it seems to be the queen of the science because of the needs for thinking. Whenever I have some difficult problems, I can try my best to get it and struggle with it unless I own the solutions to the issues. In addition, I read a significant number of books so that I can improve myself and not lead the books in class to limit myself.
-print()
+
 In my views, UK is the best choice for me to do further researches. Most of recent Maths is developed in the UK, Cambridge is the best place for the students around the world who has the willingness to study maths to get into due to its advanced technologies and the talented teachers. Their teams are one of the most famous research groups like the one of Imperial College London. As a result, if I have the chances to go to those top schools, I use the resources well which are supported by those universities and pay my best efforts to do researches for the development of Maths.
